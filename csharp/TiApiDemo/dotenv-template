@@ -1,0 +1,5 @@
+NDI_OAUTH_PROVIDER=https://travelinsightsb2cprod.b2clogin.com/travelinsightsb2cprod.onmicrosoft.com
+NDI_OAUTH_APP_CLIENT_ID=d89793d2-0e4d-4110-bb94-a4094c07fdbf
+NDI_OAUTH_USER_NAME=
+NDI_OAUTH_USER_SECRET=
+NDI_TI_API_BASE_URL=
